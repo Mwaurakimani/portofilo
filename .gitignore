@@ -5,6 +5,7 @@
 Homestead.json
 Homestead.yaml
 auth.json
+vendor.zip
 /vendor
 npm-debug.log
 yarn-error.log
