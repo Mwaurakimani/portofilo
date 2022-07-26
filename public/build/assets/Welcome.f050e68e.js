@@ -1,1 +1,0 @@
-import{_ as t}from"./_plugin-vue_export-helper.cdc0426e.js";import{o,e as s,F as c,a as e}from"./app.3a512bcd.js";const r={},a=e("p",null,"hello",-1),n=e("img",{src:"/storage/test.jpeg",alt:"img"},null,-1);function l(_,m){return o(),s(c,null,[a,n],64)}const p=t(r,[["render",l]]);export{p as default};
