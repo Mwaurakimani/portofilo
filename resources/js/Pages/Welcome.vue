@@ -2,7 +2,7 @@
     <div class="banner-image">
         <div class="cover">
             <h1>Welcome</h1>
-            <p>Coming soon!</p>
+            <p>Site will be launching soon!</p>
 
             <div class="timer">
                 <div class="timer-digit">
