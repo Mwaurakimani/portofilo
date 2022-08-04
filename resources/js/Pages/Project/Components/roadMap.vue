@@ -88,7 +88,7 @@ export default {
                             description:"Adobe Photoshop, Adobe Illustrator, Adobe XD",
                             groupIcons:[
                                 "/storage/icons/roadmap/photoshop.png",
-                                "/storage/icons/roadmap/illustrator.png",
+                                "/storage/icons/roadmap/Illustrator.png",
                                 "/storage/icons/roadmap/xd.png",
                             ]
                         },
